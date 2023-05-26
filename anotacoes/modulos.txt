@@ -1,0 +1,93 @@
+versão drupal 9.4.15
+Módulos já disponívels no sistema
+
+Core==================
+Actions
+Activity Tracker
+Aggregator (Deprecated)
+Automated Cron
+Ban	
+BigPipe
+Block
+Book
+Breakpoint
+CKEditor
+Color (Deprecated)
+Comment
+Configuration Manager
+Contact
+Content Moderation
+Contextual Links
+Custom Block
+Custom Menu Links
+Database Logging
+Field
+Field UI
+Filter
+Forum
+Help
+History
+Inline Form Errors
+Internal Dynamic Page Cache
+Internal Page Cache
+Layout Builder
+Layout Discovery
+Media
+Media Library
+Menu UI
+MySQL
+Node
+Path
+PostgreSQL
+Quick Edit
+RDF
+Responsive Image
+Search
+Settings Tray
+Shortcut
+SQLite
+Statistics
+Syslog
+System
+Taxonomy
+Text Editor
+Toolbar
+Tour
+Update Manager
+User
+Views
+Views UI
+Workflows
+
+Core (Experimental)==================
+CKEditor 5	
+Field Layout	
+Help Topics
+Workspaces
+
+Field types==================
+Datetime
+Datetime Range
+File
+Image
+Link
+Options
+Telephone
+Text
+
+Migration==================
+Migrate
+Migrate Drupal
+Migrate Drupal UI
+
+
+Multilingual==================
+Configuration Translation
+Content Translation	
+Interface Translation
+Language
+
+Web services
+HAL (Deprecated)
+HTTP Basic Authentication
+JSON:API

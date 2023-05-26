@@ -1,0 +1,48 @@
+versão drupal 9.4.15
+Módulos instalados por padrão quando inicia essa instância drupal
+
+Core==================
+Automated Cron
+BigPipe
+Block
+Breakpoint
+CKEditor
+Comment
+Configuration Manager
+Contact
+Contextual Links
+Custom Block
+Custom Menu Links
+Database Logging
+Field
+Field UI
+Filter
+Help
+History
+Internal Dynamic Page Cache
+Internal Page Cache
+Menu UI
+MySQL
+Node
+Path
+RDF
+Search
+Shortcut
+System
+Taxonomy
+Text Editor
+Toolbar
+Tour
+Update Manager
+User
+Views
+Views UI
+
+
+Field types==================
+Datetime
+File
+Image
+Link
+Options
+Text
